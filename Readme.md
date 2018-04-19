@@ -7,15 +7,16 @@ dataset
 1. facades
 2. edges2shoes
 3. edges2handbags
-
+4. apple2orange
+5. zebra2horse
 * dataset link: https://people.eecs.berkeley.edu/~tinghuiz/projects/pix2pix/datasets/
-
+* dataset link: https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/
 #### edges2shoes dataset
 
 
 <table align='center'>
 <tr align='center'>
- <td> pytorch implementaion(iteration = 8950,batch_size 200)</td>
+ pytorch implementaion(iteration = 8950,batch_size 200)
  </tr>
 <tr align='center'>
  <td>A</td>
@@ -52,7 +53,7 @@ dataset
  <td>ABA</td>
  </tr>
 <tr>
- <td><img src = 'img/edges2handbags_eval_valid_A.png' ></td>
+ <td><img src = 'img/edges2handbags_eval_valid_x_A.png' ></td>
  <td><img src = 'img/edges2handbags_173850_eval_valid_x_AB.png' ></td>
  <td><img src = 'img/edges2handbags_173850_eval_valid_x_ABA.png' ></td>
 </tr>
@@ -62,7 +63,7 @@ dataset
  <td> BAB</td>
  </tr>
 <tr>
- <td><img src = 'img/eedges2handbags_eval_valid_B.png' ></td>
+ <td><img src = 'img/edges2handbags_eval_valid_x_B.png' ></td>
  <td><img src = 'img/edges2handbags_173850_eval_valid_x_BA.png' ></td>
  <td><img src = 'img/edges2handbags_173850_eval_valid_x_BAB.png' ></td>
 </tr>
@@ -83,8 +84,8 @@ dataset
  </tr>
 <tr>
  <td><img src = 'img/shoes2handbags_eval_valid_A.png' ></td>
- <td><img src = 'img/shoes2handbags_15450_eval_valid_x_AB.png' ></td>
- <td><img src = 'img/shoes2handbags_15450_eval_valid_x_ABA.png' ></td>
+ <td><img src = 'img/shoes2handbags_15450_eval_valid_x_AB_.png' ></td>
+ <td><img src = 'img/shoes2handbags_15450_eval_valid_x_ABA_.png' ></td>
 </tr>
 <tr align='center'>
  <td> B</td>
@@ -93,8 +94,8 @@ dataset
  </tr>
 <tr>
  <td><img src = 'img/shoes2handbags_eval_valid_B.png' ></td>
- <td><img src = 'img/shoes2handbags_15450_eval_valid_x_BA.png' ></td>
- <td><img src = 'img/shoes2handbags_15450_eval_valid_x_BAB.png' ></td>
+ <td><img src = 'img/shoes2handbags_15450_eval_valid_x_BA_.png' ></td>
+ <td><img src = 'img/shoes2handbags_15450_eval_valid_x_BAB_.png' ></td>
 </tr>
 </table>
 
@@ -114,7 +115,7 @@ dataset
  <td>ABA</td>
  </tr>
 <tr>
- <td><img src = 'img/edges2shoes_256x256_eval_valid_A.png' ></td>
+ <td><img src = 'img/edges2shoes_256x256_eval_valid_x_A.png' ></td>
  <td><img src = 'img/edges2shoes_256x256_23916_eval_valid_x_AB.png' ></td>
  <td><img src = 'img/edges2shoes_256x256_23916_eval_valid_x_ABA.png' ></td>
 </tr>
@@ -124,40 +125,12 @@ dataset
  <td> BAB</td>
  </tr>
 <tr>
- <td><img src = 'img/edges2shoes_256x256_eval_valid_B.png' ></td>
+ <td><img src = 'img/edges2shoes_256x256_eval_valid_x_B.png' ></td>
  <td><img src = 'img/edges2shoes_256x256_23916_eval_valid_x_BA.png' ></td>
  <td><img src = 'img/edges2shoes_256x256_23916_eval_valid_x_BAB.png' ></td>
 </tr>
 </table>
 
-#### facades dataset
-
-
-<table align='center'>
-<tr align='center'>
- <td> pytorch implementaion(epoch = 106,batch_size= 25)</td>
- </tr>
-<tr align='center'>
- <td>A</td>
- <td>AB</td>
- <td>ABA</td>
- </tr>
-<tr>
- <td><img src = 'img/facades_eval_valid_x_A.png' ></td>
- <td><img src = 'img/facades_106_eval_valid_x_AB.png' ></td>
- <td><img src = 'img/facades_106_eval_valid_x_ABA.png' ></td>
-</tr>
-<tr align='center'>
- <td> B</td>
- <td> BA</td>
- <td> BAB</td>
- </tr>
-<tr>
- <td><img src = 'img/facades_eval_valid_x_B.png' ></td>
- <td><img src = 'img/facades_106_eval_valid_x_BA.png' ></td>
- <td><img src = 'img/facades_106_eval_valid_x_BAB.png' ></td>
-</tr>
-</table>
 
 #### facades dataset
 
