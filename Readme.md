@@ -16,7 +16,7 @@ dataset
 
 <table align='center'>
 <tr align='center'>
- pytorch implementaion(iteration = 8950,batch_size 200)
+ <td colspan='3'>pytorch implementaion(iteration = 8950,batch_size 200)</td>
  </tr>
 <tr align='center'>
  <td>A</td>
@@ -45,7 +45,7 @@ dataset
 
 <table align='center'>
 <tr align='center'>
- <td> pytorch implementaion(iteration = 173850,batch_size= 200)</td>
+ <td colspan='3'> pytorch implementaion(iteration = 173850,batch_size= 200)</td>
  </tr>
 <tr align='center'>
  <td>A</td>
@@ -75,7 +75,7 @@ dataset
 
 <table align='center'>
 <tr align='center'>
- <td> pytorch implementaion(iteration = 15450,batch_size= 200)</td>
+ <td colspan='3'> pytorch implementaion(iteration = 15450,batch_size= 200)</td>
  </tr>
 <tr align='center'>
  <td>A</td>
@@ -107,7 +107,7 @@ dataset
 
 <table align='center'>
 <tr align='center'>
- <td> pytorch implementaion(iteration = 23916,batch_size= 25)</td>
+ <td colspan='3'> pytorch implementaion(iteration = 23916,batch_size= 25)</td>
  </tr>
 <tr align='center'>
  <td>A</td>
@@ -137,7 +137,7 @@ dataset
 
 <table align='center'>
 <tr align='center'>
- <td> pytorch implementaion(epoch = 106,batch_size= 25)</td>
+ <td colspan='3'> pytorch implementaion(epoch = 106,batch_size= 25)</td>
  </tr>
 <tr align='center'>
  <td>A</td>
@@ -168,7 +168,7 @@ dataset
 
 <table align='center'>
 <tr align='center'>
- <td> pytorch implementaion(epoch = 200,batch_size= 25)</td>
+ <td colspan='3'> pytorch implementaion(epoch = 200,batch_size= 25)</td>
  </tr>
 <tr align='center'>
  <td>A</td>
@@ -197,7 +197,7 @@ dataset
 
 <table align='center'>
 <tr align='center'>
- <td> pytorch implementaion(epoch = 299,batch_size= 25)</td>
+ <td colspan='3'> pytorch implementaion(epoch = 299,batch_size= 25)</td>
  </tr>
 <tr align='center'>
  <td>A</td>
